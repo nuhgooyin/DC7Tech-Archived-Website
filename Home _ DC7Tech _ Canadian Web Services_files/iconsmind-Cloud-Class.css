@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'iconsmind-Cloud-Class';
+  src: url('/web/20211007035646im_/https://www.dc7tech.com/wp-content/plugins/keydesign-addon/assets/css/iconsmind/fonts/Cloud.ttf') format('truetype'),
+       url('/web/20211007035646im_/https://www.dc7tech.com/wp-content/plugins/keydesign-addon/assets/css/iconsmind/fonts/Cloud.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Cloud-Class[class^="iconsmind-"], .iconsmind-Cloud-Class[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Cloud-Class' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Block-Cloud:before { content: "\e900"!important; }
+.iconsmind-Cloud:before { content: "\e901"!important; }
+.iconsmind-Cloud-:before { content: "\e902"!important; }
+.iconsmind-Cloud--:before { content: "\e903"!important; }
+.iconsmind-Cloud-Camera:before { content: "\e904"!important; }
+.iconsmind-Cloud-Computer:before { content: "\e905"!important; }
+.iconsmind-Cloud-Email:before { content: "\e906"!important; }
+.iconsmind-Cloud-Laptop:before { content: "\e907"!important; }
+.iconsmind-Cloud-Lock:before { content: "\e908"!important; }
+.iconsmind-Cloud-Music:before { content: "\e909"!important; }
+.iconsmind-Cloud-Picture:before { content: "\e90a"!important; }
+.iconsmind-Cloud-Remove:before { content: "\e90b"!important; }
+.iconsmind-Clouds:before { content: "\e90c"!important; }
+.iconsmind-Cloud-Secure:before { content: "\e90d"!important; }
+.iconsmind-Cloud-Settings:before { content: "\e90e"!important; }
+.iconsmind-Cloud-Smartphone:before { content: "\e90f"!important; }
+.iconsmind-Cloud-Tablet:before { content: "\e910"!important; }
+.iconsmind-Cloud-Video:before { content: "\e911"!important; }
+.iconsmind-Device-SyncwithCloud:before { content: "\e912"!important; }
+.iconsmind-Download-fromCloud:before { content: "\e913"!important; }
+.iconsmind-People-onCloud:before { content: "\e914"!important; }
+.iconsmind-Search-onCloud:before { content: "\e915"!important; }
+.iconsmind-Share-onCloud:before { content: "\e916"!important; }
+.iconsmind-Sync-Cloud:before { content: "\e917"!important; }
+.iconsmind-Upload-toCloud:before { content: "\e918"!important; }
+
+/*
+     FILE ARCHIVED ON 03:56:46 Oct 07, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:20:04 May 15, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 187.864
+  exclusion.robots: 0.073
+  exclusion.robots.policy: 0.064
+  RedisCDXSource: 8.457
+  esindex: 0.009
+  LoadShardBlock: 160.406 (3)
+  PetaboxLoader3.datanode: 170.108 (4)
+  load_resource: 81.118
+  PetaboxLoader3.resolve: 67.443
+*/
